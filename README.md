@@ -1,12 +1,11 @@
 ![imasdge](https://user-images.githubusercontent.com/59606874/206805468-b73db34e-a9bf-4729-a94d-8691c006eab7.jpeg)
 
-![200w](https://user-images.githubusercontent.com/59606874/206805817-3d814c77-6d9b-4ac9-a910-14d57523ab72.gif)
 
 
 
 <h1 align="center">Hi 👋, I'm Halil İbrahim</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-
+<img align="right" src="https://user-images.githubusercontent.com/59606874/206805817-3d814c77-6d9b-4ac9-a910-14d57523ab72.gif" >
 - 🔭 I’m currently working on **Content Management System**
 
 - 🌱 I’m currently learning **LaraveL,PHP,Node.Js,Vue.Js**
