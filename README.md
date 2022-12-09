@@ -1,5 +1,5 @@
+![image](https://user-images.githubusercontent.com/59606874/206805246-822a9bec-faf1-436b-a93a-cd45af8f897a.jpeg)
 
-<img src="https://user-images.githubusercontent.com/59606874/206804956-f77cd7fc-f3c4-4a18-aa83-87985161e6ee.jpeg" widht="1000" height="250">
 
 <h1 align="center">Hi 👋, I'm Halil İbrahim</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
