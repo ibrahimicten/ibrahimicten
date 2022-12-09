@@ -1,4 +1,5 @@
-![back-end-developer-1024x512](https://user-images.githubusercontent.com/59606874/206805284-2eb71d1f-1c61-4445-b5a7-961ede4a720a.png)
+![imasdge](https://user-images.githubusercontent.com/59606874/206805468-b73db34e-a9bf-4729-a94d-8691c006eab7.jpeg)
+
 
 
 
